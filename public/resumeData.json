@@ -3,7 +3,7 @@
     "name":"Marcus D. Norwood",
     "description":"Development | Design | Multimedia | Audio",
     "image":"profilepic.jpg",
-    "bio":"A creative individual with 12 years of professional career experience in full stack web development, design, project management and multimedia production. Owner of Dale Street Studio, LLC. A web, multimedia and audio studio. I currently use React, Node, Firebase and Javascript libraries like Redux, Hooks, ContextAPI, GraphQL, etc. to develop web unidirectional optimized SPA websites. Including Create React App, Gatsby, or NextJS implementations. Using Git, Heroku, Firebase and other workflows for version control or hosting. As well as supporting solutions like Drupal 8/9 & Wordpress with drag and drop site editing features via Gutenburg; if needing a module based CMS solution. I especially excel in responsive development with CSS/SASS markup. Implementing BEM styling practices in architecture when possible. Especially when using Styled-Components in React. I also have past experience building projects with other web stacks like .Net MVC C#, .NET Webforms, ASP & vanilla HTML5/CSS/JS builds. As well working in various database types like SQL, MySQL or NoSQL depending on the stack at the time of the build. For multimedia, I lean on the Adobe Creative Cloud suite with plently of experience in graphic design for the web via Photoshop and Illustrator. For creative hobbies outside of technology, I have 20 years of experience in audio and studio engineering. As a DJ. Where I'm now also offering modern hybrid analog/digital mixing, mastering and audio repair solutions. In addition to continuing to write and produce music.",
+    "bio":"A creative individual with 12 years of professional experience in full stack web development, design, project management and multimedia production. Working for various companies across the U.S. Now owner of Dale Street Studio, LLC. A web, multimedia and audio studio. I currently use React, Node, Firebase and Javascript libraries like Redux, Hooks, ContextAPI, GraphQL, etc. to develop unidirectional optimized progressive SPA sites. Including Create React App, Gatsby, or NextJS implementations. Using Git, Heroku, Firebase and other workflows for version control or hosting. As well as supporting solutions like Drupal 8/9 & Wordpress with drag and drop site editing features via Gutenburg; if needing a module based CMS solution. I especially excel in responsive development with CSS/SASS markup. Implementing BEM styling practices in architecture when possible. Especially when using Styled-Components in React. I also have past experience building projects with other web stacks like .Net MVC C#, .NET Webforms, ASP & vanilla HTML5/CSS/JS builds. As well working in various database types like SQL, MySQL or NoSQL depending on the stack at the time of the build. For multimedia, I lean on the Adobe Creative Cloud suite with plently of experience in graphic design for the web via Photoshop and Illustrator. For creative hobbies outside of technology, I have 20 years of experience in audio production and studio engineering as a long time musician. Where I'm now offering modern hybrid analog/digital mixing, mastering and audio repair services.",
     "contactmessage":"Let me know how I can help with your web project or if you have an exciting position in mind for me you'd like to see if I'm insterested in.",
     "email": "dale.street.studio.com",
     "phone": "",
@@ -46,8 +46,8 @@
       {
         "school":"Zero to Mastery",
         "degree":"Online Courses",
-        "graduated":"April 2007",
-        "description":"Completion of various online courses in web development over the years. Between Pluralsight and Udemy. Most recently completing the React + Firebase course in Zero to Mastery. Amongst many other web development and design based courses in the past."
+        "graduated":"2019 to Now",
+        "description":"Completion of various online courses in web development over the years. Between Pluralsight and Udemy. Completing the React + Firebase course in Zero to Mastery. Amongst many other web development and design based courses in the past. Continuing to take various courses."
       },
       {
         "school":"Ball State University",
@@ -79,7 +79,7 @@
         "company":"UTMB",
         "title":"Web Programmer II and Web Content Producer",
         "years":"April 2011 - June 2015",
-        "description":"Web Production & Multimedia - Supporting the School of Nursing with multimedia and web courses before moving on to support the School of Health Professions as the primary web support, but from the Provost office web & systems team. Which included classic ASP and .NET web pages with SQL. As well as responsive HTML/CSS/JS builds."
+        "description":"Web Production & Multimedia - Supporting the School of Nursing with multimedia and online courses before moving on to support the School of Health Professions as the primary web developer and content support, but from the Provost office web & systems team. Which included classic ASP and .NET web pages with SQL. As well as responsive HTML/CSS/JS builds."
       },
       {
         "company":"GCFB",
@@ -102,18 +102,22 @@
     "skills":[
       {
         "name":"Drupal",
-        "level":"90%"
+        "level":"80%"
       },
       {
         "name":"WordPress",
         "level":"70%"
       },
       {
-        "name":"ReactJs",
-        "level":"80%"
+        "name":"React",
+        "level":"90%"
       },
       {
-        "name":"CSS",
+        "name":"HTML5",
+        "level":"95%"
+      },
+      {
+        "name":"CSS/SASS",
         "level":"95%"
       },
       {
