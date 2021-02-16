@@ -15,8 +15,8 @@
       "state":"Colorado",
       "zip": "80909"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
@@ -164,7 +164,7 @@
         "title":"Famous Quote Generator",
         "category":"Vanilla javascript famous person quote generator",
         "image":"quote-generator.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://mdnorwood.github.io/quote-generator/"
       }
     ]
   }
