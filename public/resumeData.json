@@ -1,0 +1,167 @@
+{
+  "main": {
+    "name":"Marcus D. Norwood",
+    "description":"Design | Development | Multimedia",
+    "image":"profilepic.jpg",
+    "bio":"A creative individual with 12 years of professional career experience in full stack web development, design, project management and multimedia production. Owner of Dale Street Studio, LLC. A web and audio studio. I currently use React, Node, Firebase and Javascript libraries like Redux, Hooks, ContextAPI, GraphQL, etc. to develop web unidirectional optimized SPA websites. Including Create React App, Gatsby, or NextJS implementations. Using Git, Heroku, Firebase host and other workflows for version control or hosting. As well as supporting solutions like Drupal 8/9 & Wordpress with drag and drop site editing features via Gutenburg; if needing a module based CMS solution. I especially excel in responsive development with CSS/SASS markup. Implementing BEM styling practices in architecture when possible. Especially when using Styled-Components in React. I also have past experience building projects with other web stacks like .Net MVC C#, .NET Webforms, ASP & vanilla HTML5/CSS/JS builds. As well working in various dababase types like SQL, MySQL or NoSQL depending on the stack at the time of the build. For multimedia, I lean on the Adobe Creative Cloud suite with plently of experience in graphic design for the web via Photoshop and Illustrator. For creative hobbies outside of technology, I have 20 years of experience in audio and studio engineering. As a DJ. Where I'm now also offering modern hybrid analog/digital mixing, mastering and audio repair solutions. In addition to continuing to write and produce music.",
+    "contactmessage":"Let me know how I can help with your web project or if you have an exciting position in mind for me you'd like to see if I'm insterested in.",
+    "email": "dale.street.studio.com",
+    "phone": "",
+    "github":"https://github.com/mdnorwood",
+    "project":"",
+    "address":{
+      "street":"Dale Street Studio, LLC",
+      "city":"Colorado Springs",
+      "state":"Colorado",
+      "zip": "80909"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/dalestreetstudio",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"#",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/marcusdnorwood/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/mdnorwood",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"A list of web & multimedia",
+    "education":[
+      {
+        "school":"Zero to Mastery",
+        "degree":"Online Courses",
+        "graduated":"April 2007",
+        "description":"Completion of various online courses in web development over the years. Between Pluralsight and Udemy. Most recently completing the React + Firebase course in Zero to Mastery. Amongst many other web development and design based courses in the past."
+      },
+      {
+        "school":"Ball State University",
+        "degree":"Multimedia Production - Telecommunications",
+        "graduated":"2009",
+        "description":"A bachelors of arts with a focus on multimedia production. Inludung video and motion grpahics production, web design, audio engineering and sound design. Plus a minor in business technology."
+      }
+    ],
+    "work":[
+      {
+        "company":"Dale Street Studio",
+        "title":"Owner",
+        "years":"Jan 2021 - Present",
+        "description":"My LLC dedicated to supporting select contract clients with web development, web design, system support & multimedia production. As well as professional audio services for a separate client base."
+      },
+      {
+        "company":"Mercedes-Benz Club of America",
+        "title":"Web Project Manager, System Admin and Development",
+        "years":"November 2016 - December 2020",
+        "description":"Web Project Manager & System Admin of large primary enterprise CMS + CRM implementation. Full development support and maintenance on a separate CMS Section Services instance."
+      },
+      {
+        "company":"ClosedOp",
+        "title":"Full Stack Web Developer",
+        "years":"July 2015 - July 2016",
+        "description":"Full stack web development, database development and design utilizing .NET MVC, C# and SQL. Along with razor views and multimedia/graphics support."
+      },
+      {
+        "company":"UTMB",
+        "title":"Web Programmer II and Web Content Producer",
+        "years":"April 2011 - June 2015",
+        "description":"Web Production & Multimedia - Supporting the School of Nursing with multimedia and web courses before moving on to support the School of Health Professions as the primary web support, but from the Provost office web & systems team. Which included classic ASP and .NET web pages with SQL. As well as responsive HTML/CSS/JS builds."
+      },
+      {
+        "company":"GCFB",
+        "title":"Web Design and Development",
+        "years":"Dec 2010 - April 2011",
+        "description":"Implemented new HTML/CSS/JS site from the ground up with a custom code framework. Migrated hosts and implemented a new email marketing system to save the food bank money. As well as general IT training/support of food bank employees with a new inventory management database."
+      },
+      {
+        "company":"Norwood Digital Design",
+        "title":"Web Design and Development, Motion Graphics",
+        "years":"Dec 2009 - Dec 2010",
+        "description":"Fresh out of school and doing freelance projects in Houston/Galveston area at the time. It was my first taste of full time web design and development projects. Strictly static brochure design based sites at the time with minor PHP for contact forms. Building in my own custom CSS frameworks and elements. Before starting a long run as a full time employee for the next decade."
+      },     {
+        "company":"Before the web career",
+        "title":"DJ & Audio Producer",
+        "years":"2000 - Dec 2009",
+        "description":"A professional DJ and hobbyist audio producer. Doing gigs in Clubs, bars, private parties all over the U.S. As well as a weekly club residency in Galveston, TX at the Gravity Bar. Including involvement in various bands as a producer and dj. Also spent time as an island Barista and coffee shop manager. Before going back to school in 2008 to finish a bachelor's degree in Telecommunications - Multimedia Production."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Drupal",
+        "level":"90%"
+      },
+      {
+        "name":"WordPress",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"95%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"Firebase",
+        "level":"70%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"90%"
+      },
+      {
+        "name":"Video",
+        "level":"80%"
+      },
+      {
+        "name":"Motion Graphics",
+        "level":"70%"
+      },
+      {
+        "name":"Audio",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Crown Clothing Store",
+        "category":"A fully functional e-commerce store with Create-React-App & Redux; with a modern and clean UI",
+        "image":"Crwn-clothing.jpg",
+        "url":"https://mn-crwn-live.herokuapp.com/"
+      },
+      {
+        "title":"Infinite Scroller API",
+        "category":"An infinite scroller built to use the Unsplash API. With vanilla Javascript",
+        "image":"infinite-scroller.jpg",
+        "url":"https://mdnorwood.github.io/infinite-scroll-unsplash-api/"
+      },
+      {
+        "title":"Famous Quote Generator",
+        "category":"Vanilla javascript famous person quote generator",
+        "image":"quote-generator.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  }
+}
