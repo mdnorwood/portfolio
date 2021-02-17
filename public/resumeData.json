@@ -3,10 +3,10 @@
     "name":"Marcus D. Norwood",
     "description":"Development | Design | Multimedia | Audio",
     "image":"profilepic.jpg",
-    "bio":"A creative individual that has worked for various companies across the U.S. in the last decade+. Supporting their web and multimedia needs. I've recently started Dale Street Studio, LLC in 2021. A growing home based studio. To support my clients and grow my opportunities in both web and audio. Doing the things and projects that I love most. From the place I love most. So I can keep my overhead low and offer great rates. I'm also a life long learner. So I keep a stack of online courses available to jump on anytime I have a free moment. Udemy.com and YouTube being key components to that. Plus tinkering and noodling away on web dev or in the audio studio any chance I get. When not spending time with the family and helping with my youngest son's schoolwork during COVID times.",
-    "webexperience":"I have 12 years of full-time professional experience between web development, design and admin support. Supporting a variety of infrastructures, strategies, and also doing project management. Where I'm now offering web development, design, and support services to select clients. I currently use React, Node, Firebase and Javascript libraries like Redux, Hooks, ContextAPI, GraphQL, etc. to develop unidirectional data flow, optimized, progressive app, SPA websites. Including using Create React App, Gatsby, or NextJS implementations. Relying on Git, Heroku, Firebase and other workflows for version control or hosting. I can also implement and am supporting solutions like Drupal 8/9 & Wordpress with drag and drop site editing features via Gutenburg; if needing a more module based CMS solution. I especially excel in responsive development with CSS/SASS markup no matter the stack. For web styling and markup, I try to implement BEM styling practices in architecture when possible. Especially why I prefer using Styled-Components in React. I also have past experience building projects with other web stacks like .Net MVC C#, .NET Webforms, classic ASP & vanilla HTML5/CSS/JS builds. As well working in various database types like SQL, MySQL or NoSQL depending on the stack at the time of the build. I'm also using Adobe XD to help mockup site designs if a client wants something completely customized. Going through the full design process and not a 3rd party contributed theme if wanting to invest in that process. I'm not a one size fits all type of developer. I like to work with the client and find the web stack, or a support model, that best make sense for their needs and budget. Then I dive in and get to work.",
-    "multimediaexperience":"I lean on the Adobe Creative Cloud suite with plently of experience in graphic design via Photoshop and Illustrator. Which is always a part of the web dev and support processes. More importantly as a web developer, I understand web optimized image types like JP2, JPX, JXR and WebP. I also have some experience with Motion Graphics in After Effects and on the web. Plus general video production and editing. Especially formatting to fit the various playback on the web or elsewhere.",
-    "audioexperience":"I also specialize in audio with having 20+ years of past experience in various forms. From being a musician, former Dj. Along with a bachelor's in arts from BSU focused on audio production. production, sound design, and studio engineering.  Plus being a musician and former Dj. I'm now offering professional audio services with a modern hybrid analog/digital chain for mixing, mastering and audio repair. Plus production with publishing opportunities as I grow and bring on more artist based clients to support. See more from Dale Street Studio - Audio (coming soon) for more information.",
+    "bio":"A creative individual that has worked for various companies across the U.S. supporting web and multimedia projects. I've recently started Dale Street Studio, LLC in 2021 to support clients in web, multimedia and audio.",
+    "webexperience":"I have 12 years of full-time professional experience between web development, design, project management and system admin support. Spanning various systems due to the different companies I've worked for in the past. For development, I currently use React, Node, Firebase (NoSQL) and Javascript libraries like Redux, Hooks, ContextAPI, GraphQL, etc. Including using Create React App, Gatsby, or NextJS. Relying on Git, Heroku, Firebase and other workflows for version control and hosting. I can also implement and support CMS solutions like Drupal 8/9 & Wordpress with drag and drop site editing features via Gutenburg. I'm very comfortable with responsive design with CSS/SASS markup no matter the web stack. I prefer using Styled-Components if in React for better BEM markup pattern implementation. I'm flexible in using custom grids, flexbox, 3rd party grids like Bootstrap, etc. I also have past experience building projects with other web stacks like .Net MVC C#, .NET Webforms, classic ASP & vanilla HTML5/CSS/JS builds. As well working with various database types like SQL & MySQL.",
+    "multimediaexperience":"I lean on the Adobe Creative Cloud suite with plently of experience in graphic design via Photoshop and Illustrator. Which is always a part of the web dev and support processes. More importantly as a web developer, I understand web optimized image types like JP2, JPX, JXR and WebP. I use Adobe XD, Figma, and Miro to help mockup site designs, User flows, UI wireframes, etc. Especially if a client wants something highly customized with going through the full design process. Although I can also just implement 3rd party contributed themes if the client wants a particular design style that's already offered. Editing graphics, implementing Font Icons, and much more to get the necessary design style. I also have some experience with Motion Graphics for video in After Effect. Plus general video production and editing. Especially formatting video and audio to fit the various playback requirements on the web or elsewhere. For instance, exporting a particular format for HTML5 playback. Along with backup formats. That, or mastering a stereo audio track for release on Spotify, etc.",
+    "audioexperience":"I specialize in audio with having 20+ years of experience. Along with a bachelor of arts from BSU focused on audio production, sound design, and studio engineering. Formerly a professional DJ, I'm now offering professional audio services with a modern hybrid analog/digital studio. Specializing in production, mixing & mastering. Plus audio repair. Utilizing SSL, R. Neve, Akai, Izotope, Melodyne 5, and other hardware or software tools to get the job done efficiently. With a quality processing chain. Taking years of experience and offering it to new artists and musicians on a per client basis. While continuing to work on my personal projects as a songwriter, producer and guitarist. See Dale Street Studio - Audio (coming soon) for more audio services information if interested in seeing more.",
     "contactmessage":"Let me know if you have an exciting project that you know you'd like to work with me on, or if you'd just like to see if I'm insterested. I'd love to hear more!",
     "email": "dale.street.studio.com",
     "phone": "",
@@ -47,16 +47,16 @@
     "skillmessage":"A list of web & multimedia",
     "education":[
       {
-        "school":"Zero to Mastery",
+        "school":"Zero to Mastery and other online courses",
         "degree":"Online Courses",
         "graduated":"2019 to Now",
-        "description":"Completion of various online courses in web development over the years. Between Pluralsight and Udemy. Completing the React + Firebase course in Zero to Mastery. Amongst many other web development and design based courses in the past. Continuing to take various courses."
+        "description":"Completion of various online courses in web development over the last 10 years. Between Pluralsight and Udemy. Most recently completing the React + Firebase Zero to Mastery course. Amongst other courses I'm always continuing to take as a life long learner."
       },
       {
         "school":"Ball State University",
-        "degree":"Multimedia Production - Telecommunications",
+        "degree":"Telecommunications - audio production",
         "graduated":"2009",
-        "description":"A bachelors of arts with a focus on multimedia production. Inludung video and motion grpahics production, web design, audio engineering and sound design. Plus a minor in business technology."
+        "description":"A bachelor of arts in Telecommunications. With a focus on audio and multimedia production. That also included video and motion graphics, web design, but a far heavier focus and deeper dive into studio engineering and general sound design. Plus a minor in business technology for online systems."
       }
     ],
     "work":[
@@ -64,7 +64,7 @@
         "company":"Dale Street Studio",
         "title":"Owner",
         "years":"Jan 2021 - Present",
-        "description":"My LLC dedicated to supporting select contract clients with web development, web design, system support & multimedia production. As well as professional audio services for a separate client base."
+        "description":"My LLC dedicated to supporting select contract clients with web development, web design, system admin support & multimedia production. As well as offering professional audio services for a separate client base."
       },
       {
         "company":"Mercedes-Benz Club of America",
@@ -97,9 +97,9 @@
         "description":"Fresh out of school and doing freelance projects in Houston/Galveston area at the time. It was my first taste of full time web design and development projects. Strictly static brochure design based sites at the time with minor PHP for contact forms. Building in my own custom CSS frameworks and elements. Before starting a long run as a full time employee for the next decade."
       },     {
         "company":"Before the web career",
-        "title":"DJ & Audio Producer",
+        "title":"DJ & Barista",
         "years":"2000 - Dec 2009",
-        "description":"A professional DJ and hobbyist audio producer. Doing gigs in Clubs, bars, private parties all over the U.S. As well as a weekly club residency in Galveston, TX at the Gravity Bar. Including involvement in various bands as a producer and dj. Also spent time as an island Barista and coffee shop manager. Before going back to school in 2008 to finish a bachelor's degree in Telecommunications - Multimedia Production."
+        "description":"A DJ and hobbyist audio producer. Doing gigs at clubs, bars, private parties, etc. As well as a weekly club residency. Involvement in various bands and groups at the time. Also spent time as an island Barista and coffee shop manager. Before going to school to finish a bachelor's degree in Telecommunications at Ball State University. Then getting into a web career."
       }
     ],
     "skills":[
