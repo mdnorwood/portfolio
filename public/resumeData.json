@@ -152,8 +152,14 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Monsters Rolodex",
+        "category":"React Search by Name",
+        "image":"monster-rolodex.jpg",
+        "url":"https://mdnorwood.github.io/monsters-rolodex/"
+      },
+      {
         "title":"Crown Clothing Store",
-        "category":"A fully functional e-commerce store with Create-React-App & Redux; with a modern and clean UI",
+        "category":"An e-commerce store with Create-React-App, Redux and Firebase; with a modern and clean UI",
         "image":"Crwn-clothing.jpg",
         "url":"https://mn-crwn-live.herokuapp.com/"
       },
