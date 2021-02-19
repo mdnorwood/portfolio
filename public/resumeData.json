@@ -174,6 +174,12 @@
         "category":"Vanilla javascript to show Light/Dark mode functionality",
         "image":"light-dark-mode.jpg",
         "url":"https://mdnorwood.github.io/light-dark-mode/"
+      },
+      {
+        "title":"CORS Anywhere Example",
+        "category":"This API enables cross-origin requests to anywhere.",
+        "image":"cors-anywhere.jpg",
+        "url":"https://gentle-spire-09107.herokuapp.com/"
       }
     ]
   }
