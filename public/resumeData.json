@@ -158,6 +158,12 @@
         "url":"https://mdnorwood.github.io/infinite-scroll-unsplash-api/"
       },
       {
+        "title":"Tailwind CSS + AOS",
+        "category":"A responsive site using Tailwind CSS. Plus implementing animations on scroll",
+        "image":"Tailwind-CSS-Animate-On-Scroll.jpg",
+        "url":"https://mdnorwood.github.io/tailwind-css-with-animate-on-scroll/"
+      },
+      {
         "title":"Crown Clothing Store",
         "category":"An e-commerce store with Create-React-App, Redux and Firebase",
         "image":"Crwn-clothing.jpg",
