@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Marcus D. Norwood",
-    "description":"Development | Design | Multimedia | Audio",
+    "description":"Web Development | Design | Multimedia",
     "image":"profilepic.jpg",
-    "bio":"A creative individual that has worked for various companies across the U.S. supporting web and multimedia projects. I've recently started Dale Street Studio, LLC in 2021 to support clients.",
-    "webexperience":"I have 12 years of full-time professional experience between web development, design, project management and system admin support. Spanning various systems due to the different companies I've worked for in the past. For development, I currently use React, Node, Firebase (NoSQL) and Javascript libraries like Redux, Hooks, ContextAPI, GraphQL, etc. Including using Create React App, Gatsby, or NextJS. Relying on Git, Heroku, Firebase and other workflows for version control and hosting. I can also implement and support CMS solutions like Drupal 8/9 & Wordpress with drag and drop site editing features via Gutenburg. I'm very comfortable with responsive design using CSS/SASS markup no matter the web stack. I prefer using Styled-Components if in React for better BEM markup pattern implementation. I'm flexible in using custom grids, flexbox, 3rd party grids like Bootstrap, etc. I also have past experience building projects with other web stacks like .Net MVC C#, .NET Webforms, classic ASP & vanilla HTML5/CSS/JS builds. As well working with various database types like SQL & MySQL.",
-    "multimediaexperience":"I lean on the Adobe Creative Cloud suite with plently of experience in graphic design via Photoshop and Illustrator. Which is always a part of the web dev and support processes. More importantly as a web developer, I understand web optimized image types like JP2, JPX, JXR and WebP. I use Adobe XD, Figma, and Miro to help mockup site designs, user flows, UI wireframes, etc. Especially if a client wants something customized with going through the full design and user story/ux process. Although I can also just implement 3rd party contributed themes and get started on building sites with less features and navigation structures, if needing something presented quickly for small and medium sized sites. Especially if the client wants a particular design style that's already offered via other themes. Editing graphics, implementing Font Icons, and much more to get the necessary design style. I also have some experience with Motion Graphics for video in After Effect. Plus general video production and editing. Especially formatting video and audio to fit the various playback requirements on the web or elsewhere. For instance, exporting a particular set of formats for HTML5 video playback in all browser types. That, or mastering a stereo audio track for release on Spotify, etc.",
+    "bio":"A creative individual that has worked for various companies across the U.S. supporting multiple web stacks and multimedia projects. I excel in front-end development but have experience across the full stack. Including project managment of large systems and migrations in the past. My passion outside of web technology is audio.",
+    "webexperience":"I have 11+ years of full-time professional experience between web development, design, project management and system admin support. For development, I currently use React, Node, Firebase (NoSQL) and Javascript libraries like Redux, Hooks, ContextAPI, GraphQL, etc. Including using Create React App, Gatsby, or NextJS. Relying on Git, Heroku, Firebase and other workflows for version control and hosting. I can also implement and support CMS solutions like Drupal 8/9 & Wordpress with drag and drop site editing features via Gutenburg. I'm very comfortable with responsive design using CSS/SASS markup no matter the web stack. I prefer using Styled-Components if in React for better BEM markup pattern implementation. I'm flexible in using custom grids, flexbox, 3rd party grids like Bootstrap, etc. I also have past experience building projects with other web stacks like .Net MVC C#, .NET Webforms, classic ASP & vanilla HTML5/CSS/JS builds. As well working with various database types like SQL & MySQL. I also understand web optimized image types like JP2, JPX, JXR and WebP. ",
+    "multimediaexperience":"I lean on the Adobe Creative Cloud suite with plently of experience in graphic design via Photoshop and Illustrator. Which is always a part of the web dev and support processes. I use Adobe XD, Figma, and Miro to help mockup site designs, user flows, UI wireframes, etc. Especially if a client wants something customized with going through the full design and user story/ux process. Although I can also just implement 3rd party contributed themes and get started on building sites with less features and navigation structures, if needing something presented quickly for small and medium sized sites. Especially if the client wants a particular design style that's already offered via other themes. Editing graphics, implementing Font Icons, and much more to get the necessary design style. I also have some experience with Motion Graphics for video in After Effect. Plus general video production and editing. Especially formatting video and audio to fit the various playback requirements on the web or elsewhere. For instance, exporting a particular set of formats for HTML5 video playback in all browser types. That, or mastering a stereo audio track for release on Spotify, etc.",
     "audioexperience":"I also specialize in audio with having 20+ years of experience as a musician and audio producer. Along with a bachelor of arts from BSU focused on audio production, sound design, and studio engineering. I'm now offering professional audio services with a modern hybrid analog/digital studio chain. Specializing in production, mixing & mastering. Plus audio repair. Utilizing SSL, R. Neve, a mastering grade converter, Akai, Izotope, Melodyne 5, and other hardware or software tools to get the job done. Taking years of experience and offering it to new artists and musicians on a per client basis. While continuing to work on my personal projects as a songwriter, producer and guitarist. See Dale Street Studio - Audio below in my portfolio (coming soon) for more audio services information if interested in seeing more.",
     "contactmessage":"Let me know if you have an exciting project that you know you'd like to work with me on, or if you'd just like to see if I'm insterested. I'd love to hear more!",
     "email": "dale.street.studio.com",
@@ -49,14 +49,14 @@
       {
         "school":"Zero to Mastery and other online courses",
         "degree":"Online Courses",
-        "graduated":"2019 to Now",
-        "description":"Completion of various online courses in web development over the last 10 years. Between Pluralsight and Udemy. Most recently completing the React + Firebase Zero to Mastery course. Amongst other courses I'm always continuing to take as a life long learner."
+        "graduated":"",
+        "description":"Completion of various online courses in web development over the last 10 years. Between Pluralsight and Udemy. Most recently completing the React + Firebase Zero to Mastery course. Amongst other courses or tutorials I'm always continuing to take as a life long learner."
       },
       {
         "school":"Ball State University",
-        "degree":"Telecommunications - audio production",
+        "degree":"Telecommunications - multimedia production",
         "graduated":"2009",
-        "description":"A bachelor of arts in Telecommunications. With a focus on audio and multimedia production. That also included video and motion graphics, web design, but a far heavier focus and deeper dive into studio engineering and general sound design. Plus a minor in business technology for online systems."
+        "description":"A bachelor of arts in Telecommunications. With a focus on audio and multimedia production. That also included video and motion graphics, and web design, but a focus on studio engineering and sound design. Plus a minor in business technology for online systems."
       }
     ],
     "work":[
@@ -64,19 +64,19 @@
         "company":"Dale Street Studio",
         "title":"Owner",
         "years":"Jan 2021 - Present",
-        "description":"My LLC dedicated to supporting select contract clients with web development, web design, system admin support & multimedia production. As well as offering professional audio services for a separate client base."
+        "description":"My LLC dedicated to supporting select contract clients with web development, web design, system admin support & multimedia production. As well as my audio projects."
       },
       {
         "company":"Mercedes-Benz Club of America",
         "title":"Web Project Manager, System Admin and Development",
         "years":"November 2016 - December 2020",
-        "description":"Web Project Manager & System Admin of large primary enterprise CMS + CRM implementation. Full development support and maintenance on a separate CMS Section Services instance."
+        "description":"Web Project Manager & System Admin of large primary enterprise CMS + CRM implementation. Full development support and maintenance on a separate CMS Section Services instance. Helped manage a large system migration with a complicated membership structure from a single CMS instance to a CMS + CRM with Drupal  + CiviCRM. Continued to manage projects, site building and troubleshooting through the new implementation. While supporting various Sections across the US and Canada for web support."
       },
       {
         "company":"ClosedOp",
         "title":"Full Stack Web Developer",
         "years":"July 2015 - July 2016",
-        "description":"Full stack web development, database development and design utilizing .NET MVC, C# and SQL. Along with razor views and multimedia/graphics support."
+        "description":"Full stack web development, database development and design utilizing .NET MVC, C# and SQL. Along with razor views and multimedia/graphics support. With a PPC focused startup company. I also helped handle Ad creation and more. 1 year contract."
       },
       {
         "company":"UTMB",
@@ -109,7 +109,7 @@
       },
       {
         "name":"WordPress",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"React",
@@ -152,22 +152,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Monsters Rolodex",
-        "category":"React Search by Name",
-        "image":"monster-rolodex.jpg",
-        "url":"https://mdnorwood.github.io/monsters-rolodex/"
-      },
-      {
-        "title":"Crown Clothing Store",
-        "category":"An e-commerce store with Create-React-App, Redux and Firebase; with a modern and clean UI",
-        "image":"Crwn-clothing.jpg",
-        "url":"https://mn-crwn-live.herokuapp.com/"
-      },
-      {
         "title":"Infinite Scroller API",
         "category":"An infinite scroller built to use the Unsplash API. With vanilla Javascript",
         "image":"infinite-scroller.jpg",
         "url":"https://mdnorwood.github.io/infinite-scroll-unsplash-api/"
+      },
+      {
+        "title":"Crown Clothing Store",
+        "category":"An e-commerce store with Create-React-App, Redux and Firebase",
+        "image":"Crwn-clothing.jpg",
+        "url":"https://mn-crwn-live.herokuapp.com/"
+      },
+            {
+        "title":"LinkedIn Clone",
+        "category":"React + Redux build with basic LinkedIn design and functionality through Firebase",
+        "image":"LinkedIn-clone.jpg",
+        "url":"https://linkedin-clone-f439a.web.app/"
+      },
+            {
+        "title":"Monsters Rolodex",
+        "category":"React Search by Name",
+        "image":"monster-rolodex.jpg",
+        "url":"https://mdnorwood.github.io/monsters-rolodex/"
       },
       {
         "title":"Famous Quote Generator",

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Portfolio.css';
 
 class Portfolio extends Component {
   render() {
@@ -32,7 +33,7 @@ class Portfolio extends Component {
 
           <div className="twelve columns collapsed">
 
-            <h1>Thank you for taking the time to visit and look around. Instead of boring you with examples of my past work with full time employers over the last decade +, since technology and design styles can change quickly, here are some fun recent projects in which I've implemented on my own time instead. This should help display some of what I'm capable of on the web!</h1>
+            <h1>These are just some fun web projects I've built more recently. In addition I have tons of projects and sites built in the past via stacks and companies mentioned above. </h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               {projects}
