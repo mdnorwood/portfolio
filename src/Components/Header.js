@@ -28,7 +28,8 @@ class Header extends Component {
             <li><a className="smoothscroll" href="#about">About</a></li>
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Examples</a></li>
-            <li><a href="https://dale-street-studio.web.app/">Dale Street Studio (Web)</a></li>
+            <li><a href="https://dale-street-studio.web.app/">Web Services</a></li>
+            <li><a href="https://dalestreetstudio.com/">Audio Services</a></li>
          </ul>
       </nav>
 

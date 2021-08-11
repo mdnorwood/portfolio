@@ -49,7 +49,7 @@ class About extends Component {
 
                <div className="columns download">
                   <p>
-                     <a href='https://dale-street-studio.web.app/contact' className="button"><i class="fas fa-address-book"></i>Contact Me</a>
+                     <a target="_blank" href='https://us7.list-manage.com/contact-form?u=daea54b2881619a66ef815217&form_id=5187f677a6d5390aef0c1e09d8470b9e' className="button"><i class="fas fa-address-book"></i>Contact Me</a>
                   </p>
                </div>
 
