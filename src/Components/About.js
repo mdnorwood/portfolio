@@ -7,7 +7,11 @@ class About extends Component {
       var name = this.props.data.name;
       var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
-      var webexperience = this.props.data.webexperience;
+      var reactwebexperience = this.props.data.reactwebexperience;
+      var cmswebexperience = this.props.data.cmswebexperience;
+      var vanillawebexperience = this.props.data.vanillawebexperience;
+      var netwebexperience = this.props.data.netwebexperience;
+      var projectmanagementexperience = this.props.data.projectmanagementexperience;
       var multimediaexperience = this.props.data.multimediaexperience;
       var audioexperience = this.props.data.audioexperience;
       var street = this.props.data.address.street;
@@ -28,9 +32,18 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
             <p>{bio}</p>
-            <h2>Web Experience</h2>
-            <p>{webexperience}</p>
-            <h2>Multimedia Experience</h2>
+            <h2>Web Development & Support</h2>
+            <h3>React + Firebase</h3>
+            <p>{reactwebexperience}</p>
+            <h3>Drupal & Wordpress CMS</h3>
+            <p>{cmswebexperience}</p>
+            <h3>Vanilla HTML, CSS, Javascript</h3>
+            <p>{vanillawebexperience}</p>
+            <h3>.NET MVC C# & Other</h3>
+            <p>{netwebexperience}</p>
+            <h2>Web Project Management</h2>
+            <p>{projectmanagementexperience}</p>
+            <h2>Multimedia Production</h2>
             <p>{multimediaexperience}</p>
             <h2>Audio Experience</h2>
             <p>{audioexperience}</p>

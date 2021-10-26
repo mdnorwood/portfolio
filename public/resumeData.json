@@ -1,12 +1,16 @@
 {
   "main": {
     "name":"Marcus D. Norwood",
-    "description":"Web Development | UI Design | Multimedia",
+    "description":"Portfolio & Resumé",
     "image":"profilepic.jpg",
-    "bio":"Creative individual that has worked in web and multimedia. Currently doing freelance work through my Dale Street Studio, LLC (CO). Also always open to hearing about new remote opportunities or full time positions around the CO area! Excel most in front-end UI development but have experience across the full stack. My passion outside of web technology is in audio. As a studio engineer and musician.",
-    "webexperience":"11+ years of full-time professional experience between web development, design, project management and system admin support. Now using React, Node, Firebase (NoSQL) and Javascript libraries like Redux, Hooks, ContextAPI, GraphQL, etc. Including using Create React App, Gatsby, or NextJS. Relying on Git for version control and Heroku, Firebase and other workflows for hosting. Can also implement and support Content Management System solutions like Drupal 8/9 & Wordpress with drag and drop site editing features via Gutenburg, Elementor, SooperThemes, or other module implementations. Use mobile first and responsive design using CSS/SASS markup no matter the web stack. Prefer Styled-Components if in React for automatic BEM implementation. I'm also flexible in design markup. Having used custom grids, flexbox, 3rd party grids like Bootstrap, CSS libraries like Tailwind, etc. Past experience building projects with other web stacks like .Net MVC C#, .NET Webforms, classic ASP & vanilla HTML5/CSS/JS builds. As well working with various database types like SQL & MySQL.",
-    "multimediaexperience":"I understand web optimized images like JP2, JPX, JXR and WebP. Using Adobe Creative Cloud suite with experience in graphic design via Photoshop and Illustrator for normal SVG, PNG, JPG, WebP formats. As well as CLI to convert to more optimized formats. Editing graphics, implementing Font Icons, and much more to get the necessary design style. Have some experience with Motion Graphics for video in After Effect. Plus general video production and editing. Especially formatting video and audio to fit the various playback requirements on the web or elsewhere. For instance, exporting a particular set of formats for HTML5 video playback in all browser types. That, or mastering a stereo audio track for release on Spotify, etc. using LUFs and Max Peak monitoring.",
-    "audioexperience":"20+ years of hobbyist experience as a musician and audio producer. Along with a bachelor of arts from BSU focused on audio production, sound design, and studio engineering. Now offering audio services through Dale Street Studio, LLC. Utilizing SSL, R. Neve, a mastering grade converter, Akai MPC, Izotope, Melodyne 5, and other hardware or software tools.",
+    "bio":"11+ years of professional experience between web development, web design, system admin support, multimedia production, web project management & content management. I'm now starting to look for my next career position and adventure in IT.",
+    "reactwebexperience":"The last 2+ years included using React, Node, Firebase (NoSQL) for personal and online course based projects. Learning to use Javascript libraries like Redux, Hooks, ContextAPI, GraphQL, etc. Including using Create React App, Gatsby, or NextJS. Relying on Git for version control and Heroku, Firebase and other workflows for hosting. I can use Styled-Components based CSS if in React for automatic BEM implementation.",
+    "cmswebexperience":"I've also implemented and supported Content Management System solutions like Drupal & Wordpress for the last 5 years professionally. Utlizing more module based implementations with customization. Providing project managment, site building, and system admin support in a large enterprise site. Along with development, module updates, and more with a smaller instance.",
+    "vanillawebexperience":"IN THE PAST I've built mobile first and responsive design implementations from the ground up with HTML, CSS/SASS, vanilla Javascript or jQuery and more. I'm flexible in design markup. Having used custom grids, flexbox, 3rd party grids like Bootstrap, CSS libraries like Tailwind, etc. I can use web animation libraries or CSS to create basic animation elements.",
+    "netwebexperience":"FINALLY, I have past experience building projects with other web stacks like .Net MVC C#, .NET Webforms, classic ASP. As well working with various database types like SQL & MySQL. Although it's been a few years, I'd be happy to jump back into any stack if the situation is a good fit.",
+    "projectmanagementexperience":"Roughly 5 years of Web Project Managment experience. Most recently working in my last position to help oversee a large system migration from single database CMS to a CRM + CMS dual database instance. Managing client office expectations, project QA and more. Working with a larger dev agency to assist on heavy lifting. The position also included general troubleshooting and project management for bugs or enhancements post launch. As well as managing many seperate section sites for the club for sub groups across the US and internationally.",    
+    "multimediaexperience":"Years of experience with multimedia. Especially content production for the web. I understand web optimized images like JP2, JPX, JXR and WebP. Photoshop and Illustrator for normal SVG, PNG, JPG, WebP formats. As well as CLI to convert to more optimized formats. Editing graphics, implementing Font Icons, and much more to get the necessary design style. I have some past experience with Motion Graphics in After Effect. Along with general video production and editing. Especially formatting video and audio to fit the various playback requirements on the web or elsewhere.",
+    "audioexperience":"Outside of my web career, I also have a passion for audio with 20+ years of hobbyist experience as a musician and recording engineer. Along with a bachelor of arts from BSU focused on audio production, sound design and more. So on the side, I offer mixing, mastering and audio repair services through Dale Street Studio, LLC. As well as beat licensing opportunities for artists. See my Audio Services link for more information on audio services.",
     "contactmessage":"Let me know if you have an exciting project that you know you'd like to work with me on, or if you'd just like to see if I'm insterested. I'd love to hear more!",
     "email": "marcus@dalestreetstudio.com",
     "phone": "",
@@ -22,19 +26,9 @@
     "resumedownload":"",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/dalestreetstudio",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/marcus-dale-norwood/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"https://www.instagram.com/marcusdnorwood/",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
