@@ -28,7 +28,6 @@ class Header extends Component {
                <li><a className="smoothscroll" href="#about">Experience</a></li>
                <li><a className="smoothscroll" href="#resume">Resumé</a></li>
                <li><a className="smoothscroll" href="#portfolio">Web Portfolio</a></li>
-               <li><a href="https://dalestreetwebdesign.com/">Web Services</a></li>
             </ul>
           </nav>
        <header id="home" className="header-overlay">
