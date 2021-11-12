@@ -1,0 +1,43 @@
+.candycrush-page {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: relative;
+    padding: 30px;
+    background-color: white;
+    min-height: 760px;
+    min-width: 560px;
+    width: 100%;
+}
+
+.candycrush-page h1 {
+    flex: 0 1 auto;
+    position: absolute;             /* new */
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.game {
+    margin-top: 100px;
+    width: 560px;
+    height: 560px;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0 1 auto;
+    position: absolute;             /* new */
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.game img {
+    width: 70px;
+    height: 70px;
+}
+
+.score-board {
+    flex: 0 1 auto;
+    width: 100px;
+    height: 100px;
+    margin-left: auto;          
+}
+

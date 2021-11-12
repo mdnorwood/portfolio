@@ -33,7 +33,7 @@ class Portfolio extends Component {
 
           <div className="twelve columns collapsed">
 
-            <h1>These are just some fun web projects I've built more recently. In addition I have tons of projects and sites built in the past via stacks and companies mentioned above. </h1>
+            <h1>These are just some fun web projects I've built recently. Especially the React and Javascript based builds. Along with a few past responsive site build examples. In addition I have tons of projects and sites that I've built in the past decade via stacks and companies mentioned above. </h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               {projects}

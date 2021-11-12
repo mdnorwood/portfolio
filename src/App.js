@@ -1,58 +1,59 @@
-import React, { Component } from 'react';
-import ReactGA from 'react-ga';
-import $ from 'jquery';
+import React, { lazy, Suspense } from 'react';
 import './App.css';
-import Header from './Components/Header';
-import Footer from './Components/Footer';
-import About from './Components/About';
-import Resume from './Components/Resume';
-import Contact from './Components/Contact';
-import Portfolio from './Components/Portfolio';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
+import Spinner from './Components/spinner/spinner.component';
 
-class App extends Component {
+const HomePage = lazy(() => import('./pages/homepage.component'));
+const ClosedOppPortolioPage = lazy(() => import('./pages/portfolio-closedop.component'));
+const EquitiedPortolioPage = lazy(() => import('./pages/portfolio-equitied.component'));
+const CandyCrushPage = lazy(() => import('./pages/portfolio-candycrush.component'));
 
-  constructor(props){
-    super(props);
-    this.state = {
-      foo: 'bar',
-      resumeData: {}
-    };
-
-    ReactGA.initialize('UA-110570651-1');
-    ReactGA.pageview(window.location.pathname);
-
-  }
-
-  getResumeData(){
-    $.ajax({
-      url:'./resumeData.json',
-      dataType:'json',
-      cache: false,
-      success: function(data){
-        this.setState({resumeData: data});
-      }.bind(this),
-      error: function(xhr, status, err){
-        console.log(err);
-        alert(err);
-      }
-    });
-  }
-
-  componentDidMount(){
-    this.getResumeData();
-  }
-
-  render() {
+const App = () => {
     return (
       <div className="App">
-        <Header data={this.state.resumeData.main}/>
-        <About data={this.state.resumeData.main}/>
-        <Resume data={this.state.resumeData.resume}/>
-        <Portfolio data={this.state.resumeData.portfolio}/>
-        <Footer data={this.state.resumeData.main}/>
+        <Router>
+          <div>
+            {/*
+              A <Switch> looks through all its children <Route>
+              elements and renders the first one whose path
+              matches the current URL. Use a <Switch> any time
+              you have multiple routes, but you want only one
+              of them to render at a time
+            */}
+            <Switch>
+              <Suspense fallback={<Spinner />}>
+                <Route exact path = '/' component={HomePage} />
+                <Route path = '/closedop-portfolio' component={ClosedOppPortolioPage} />
+                <Route path = '/equitied-portfolio' component={EquitiedPortolioPage} />
+                <Route path = '/candycrush-portfolio' component={CandyCrushPage} />
+              </Suspense>
+            </Switch>
+
+            <ul>
+              <li>
+                <Link to="/">Home</Link>
+              </li>
+              <li>
+                <Link to="/closedop-portfolio">ClosedOp</Link>
+              </li>
+              <li>
+                <Link to="/equitied-portfolio">Equitied</Link>
+            </li>
+            <li>
+              <Link to="/candycrush-portfolio">Play Candy Crush</Link>
+            </li>
+          </ul>
+          <hr />
+          </div>
+        </Router>
       </div>
+      
     );
   }
-}
 
 export default App;

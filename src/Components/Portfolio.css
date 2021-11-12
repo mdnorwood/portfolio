@@ -1,3 +1,8 @@
 #portfolio > row > twelve > h1 {
     text-align: left;
 }
+
+.bgrid-quarters [class*="column"] {
+    FONT-WEIGHT: 500;
+    width: 100%;
+}

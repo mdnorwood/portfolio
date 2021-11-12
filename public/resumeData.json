@@ -1,17 +1,17 @@
 {
   "main": {
-    "name":"Marcus D. Norwood",
-    "description":"Portfolio & Resumé",
+    "name":"Marcus Dale Norwood",
+    "description":"Web Portfolio & Resumé",
     "image":"profilepic.jpg",
-    "bio":"11+ years of professional experience between web development, web design, system admin support, multimedia production, web project management & content management. I'm now starting to look for my next career position and adventure in IT.",
-    "reactwebexperience":"The last 2+ years included using React, Node, Firebase (NoSQL) for personal and online course based projects. Learning to use Javascript libraries like Redux, Hooks, ContextAPI, GraphQL, etc. Including using Create React App, Gatsby, or NextJS. Relying on Git for version control and Heroku, Firebase and other workflows for hosting. I can use Styled-Components based CSS if in React for automatic BEM implementation.",
-    "cmswebexperience":"I've also implemented and supported Content Management System solutions like Drupal & Wordpress for the last 5 years professionally. Utlizing more module based implementations with customization. Providing project managment, site building, and system admin support in a large enterprise site. Along with development, module updates, and more with a smaller instance.",
-    "vanillawebexperience":"IN THE PAST I've built mobile first and responsive design implementations from the ground up with HTML, CSS/SASS, vanilla Javascript or jQuery and more. I'm flexible in design markup. Having used custom grids, flexbox, 3rd party grids like Bootstrap, CSS libraries like Tailwind, etc. I can use web animation libraries or CSS to create basic animation elements.",
-    "netwebexperience":"FINALLY, I have past experience building projects with other web stacks like .Net MVC C#, .NET Webforms, classic ASP. As well working with various database types like SQL & MySQL. Although it's been a few years, I'd be happy to jump back into any stack if the situation is a good fit.",
+    "bio":"11+ years of professional experience between web development, system admin support, multimedia production, web project management & content management. 20+ years of side experience with audio production, post-production, & sound design.",
+    "reactwebexperience":"I've been using React, Node, Firebase (NoSQL) for personal and online course based projects over the last 2 years. With Javascript libraries like Redux, Hooks, ContextAPI, GraphQL, etc. Including Create React App & Gatsby. Relying on Git for version control and Heroku, Firebase and other workflows for hosting. I can use Styled-Components based CSS if in React for automatic BEM implementation.",
+    "cmswebexperience":"I've also supported Content Management System solutions like Drupal & Wordpress. Utlizing more module based implementations with customization. Providing project managment, site building, and system admin support in a large enterprise site. Along with development, module updates, and more. Troubleshooting systems and site building from the client side while managing larger projects through a 3rd party agency.",
+    "vanillawebexperience":"In the past I've built mobile first and responsive design implementations from the ground up with HTML, CSS/SASS, vanilla Javascript or jQuery and more. I'm flexible in design markup. Having used custom grids, flexbox, 3rd party grids like Bootstrap, CSS libraries like Tailwind, etc. I can use web animation libraries or CSS to create basic animation elements.",
+    "netwebexperience":"I have a few years of past experience building projects with other web stacks like .Net MVC C#, .NET Webforms, classic ASP. As well working with various database types like SQL & MySQL. Although it's been a few years, I'd be happy to jump back into any stack if the situation is a good fit.",
     "projectmanagementexperience":"Roughly 5 years of Web Project Managment experience. Most recently working in my last position to help oversee a large system migration from single database CMS to a CRM + CMS dual database instance. Managing client office expectations, project QA and more. Working with a larger dev agency to assist on heavy lifting. The position also included general troubleshooting and project management for bugs or enhancements post launch. As well as managing many seperate section sites for the club for sub groups across the US and internationally.",    
-    "multimediaexperience":"Years of experience with multimedia. Especially content production for the web. I understand web optimized images like JP2, JPX, JXR and WebP. Photoshop and Illustrator for normal SVG, PNG, JPG, WebP formats. As well as CLI to convert to more optimized formats. Editing graphics, implementing Font Icons, and much more to get the necessary design style. I have some past experience with Motion Graphics in After Effect. Along with general video production and editing. Especially formatting video and audio to fit the various playback requirements on the web or elsewhere.",
-    "audioexperience":"Outside of my web career, I also have a passion for audio with 20+ years of hobbyist experience as a musician and recording engineer. Along with a bachelor of arts from BSU focused on audio production, sound design and more. So on the side, I offer mixing, mastering and audio repair services through Dale Street Studio, LLC. As well as beat licensing opportunities for artists. See my Audio Services link for more information on audio services.",
-    "contactmessage":"Let me know if you have an exciting project that you know you'd like to work with me on, or if you'd just like to see if I'm insterested. I'd love to hear more!",
+    "multimediaexperience":"Years of experience with multimedia. Especially content production for the web. I understand web optimized images like JP2, JPX, JXR and WebP. Photoshop and Illustrator for normal SVG, PNG, JPG, WebP formats. As well as CLI to convert to more optimized formats. Editing graphics, implementing Font Icons, and much more to get the necessary design style.",
+    "audioexperience":"Outside of my web career, I'm a musician, audio producer, sound designer. Offering e-commerce products through 3rdy party web systems, a custom React site, and more. Along with a bachelor of arts from BSU focused on audio production, sound design and more.",
+    "contactmessage":"",
     "email": "marcus@dalestreetstudio.com",
     "phone": "",
     "github":"https://github.com/mdnorwood",
@@ -23,7 +23,7 @@
       "zip": "80909"
     },
     "website": "https://dale-street-studio.web.app/",
-    "resumedownload":"",
+    "resumedownload":"./../public/images/Marcus_Dale_Norwood_Resumé_for_Web_Positions.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -55,7 +55,7 @@
     ],
     "work":[
       {
-        "company":"Dale Street Studio",
+        "company":"Dale Street Studio & Web Design, LLC",
         "title":"Owner",
         "years":"Jan 2021 - Present",
         "description":"My LLC dedicated to supporting select contract clients with web development, web design, system admin support & multimedia production. As well as my audio projects."
@@ -99,7 +99,7 @@
     "skills":[
       {
         "name":"Drupal",
-        "level":"80%"
+        "level":""
       },
       {
         "name":"WordPress",
@@ -143,7 +143,7 @@
     "projects": [
       {
         "title":"Dale Street Studio",
-        "category":"Site for LLC and hub for various services",
+        "category":"Site for LLC audio services",
         "image":"DaleStStudioLLC.jpg",
         "url":"https://dalestreetstudio.com/"
       },
@@ -188,6 +188,30 @@
         "category":"Vanilla javascript to show Light/Dark mode functionality",
         "image":"light-dark-mode.jpg",
         "url":"https://mdnorwood.github.io/light-dark-mode/"
+      },
+      {
+        "title":"Dale Street Web Design",
+        "category":"Site for LLC and hub for web services",
+        "image":"DaleStreetWebDesign.jpg",
+        "url":"https://dalestreetwebdesign.com/"
+      },
+      {
+        "title":"Closed Op",
+        "category":"Vanilla Responsive Site with a WordPress Blog",
+        "image":"ClosedOpScreenshot.jpg",
+        "url":"http://localhost:3000/closedop-portfolio"
+      },
+      {
+        "title":"Dj Definition Beats",
+        "category":"3rd party pro ecommerce site with branding",
+        "image":"DjDefinitionBeats.jpg",
+        "url":"https://djdefinitionbeats.com/"
+      },
+      {
+        "title":"Candy Crush",
+        "category":"React based candy crush game.",
+        "image":"CandyCrush.png",
+        "url":"http://localhost:3000/candycrush-portfolio"
       },
       {
         "title":"CORS Anywhere Example",

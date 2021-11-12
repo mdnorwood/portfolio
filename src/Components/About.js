@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import resumePDF from './../Assets/Marcus_Dale_Norwood_Resumé_for_Web_Positions.pdf';
+const WebServices = 'https://dalestreetwebdesign.com/';
+const AudioServices = 'https://dalestreetstudio.com/';
 
 class About extends Component {
   render() {
@@ -62,7 +65,10 @@ class About extends Component {
 
                <div className="columns download">
                   <p>
-                     <a target="_blank" href='https://us7.list-manage.com/contact-form?u=daea54b2881619a66ef815217&form_id=5187f677a6d5390aef0c1e09d8470b9e' className="button"><i class="fas fa-address-book"></i>Contact Me</a>
+                     <a target="_blank" rel="noopener noreferrer" href='https://us7.list-manage.com/contact-form?u=daea54b2881619a66ef815217&form_id=5187f677a6d5390aef0c1e09d8470b9e' className="button"><i class="fas fa-address-book"></i>Contact Me</a>
+                     <a href={resumePDF} target="_blank" rel="noopener noreferrer"  className="button btn github-btn"><i class="fab fa-resume"></i>Download Resume</a>
+                     <a href={WebServices} target="_blank" rel="noopener noreferrer"  className="button btn github-btn"><i class="fab fa-web"></i>Web Services</a>
+                     <a href={AudioServices} target="_blank" rel="noopener noreferrer"  className="button btn github-btn"><i class="fab fa-audio"></i>Audio Services</a>
                   </p>
                </div>
 
