@@ -199,7 +199,7 @@
         "title":"Closed Op",
         "category":"Vanilla Responsive Site with a WordPress Blog",
         "image":"ClosedOpScreenshot.jpg",
-        "url":"http://localhost:3000/closedop-portfolio"
+        "url":"https://marcus-norwood-portfolio.web.app/closedop-portfolio"
       },
       {
         "title":"Dj Definition Beats",
@@ -211,7 +211,7 @@
         "title":"Candy Crush",
         "category":"React based candy crush game.",
         "image":"CandyCrush.png",
-        "url":"http://localhost:3000/candycrush-portfolio"
+        "url":"https://marcus-norwood-portfolio.web.app/candycrush-portfolio"
       },
       {
         "title":"CORS Anywhere Example",
