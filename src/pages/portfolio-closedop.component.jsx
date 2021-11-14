@@ -9,6 +9,20 @@ import ClosedOpScreenshot from './images/ClosedOpp/ClosedOpp-Screenshot.png';
 import TabletScreenshotHome from './images/ClosedOpp/ClosedOpp-Tablet-Screenshot-Home.png';
 import ResponsiveScreenshotHome from './images/ClosedOpp/ClosedOpp-Screenshot-Home-Responsive.png';
 import OpenMobileMenu from './images/ClosedOpp/ClosedOpp-Mobile-Screenshot-Home-Menu.png';
+import OptimizationPage from './images/ClosedOpp/ClosedOpp-Screenshot-Optimization.png';
+import ProcessPage from './images/ClosedOpp/ClosedOpp-Screenshot-Process.png';
+import IntegrationPage from './images/ClosedOpp/ClosedOpp-Screenshot-Integration.png';
+import ReportsPage from './images/ClosedOpp/ClosedOpp-Screenshot-Reports.png';
+import GuaranteePage from './images/ClosedOpp/ClosedOpp-Screenshot-OurGurantee.png';
+import DemoPage from './images/ClosedOpp/ClosedOpp-Screenshot-Schedule-Demo.png';
+import AdVersion1 from './images/ClosedOpp/Add-Version-1-1.png';
+import AdVersion2 from './images/ClosedOpp/Add-Version-1-2.png';
+import AdVersion3 from './images/ClosedOpp/Add-Version-1-3.png';
+import AdVersion4 from './images/ClosedOpp/Add-Version-1-4.png';
+import AdVersion5 from './images/ClosedOpp/Add-Version-1-5.png';
+import AdVersion6 from './images/ClosedOpp/Add-Version-2-1.png';
+import AdVersion7 from './images/ClosedOpp/Add-Version-2-2.png';
+import AdVersion8 from './images/ClosedOpp/Add-Version-2-3.png';
 import Tabs from "./../Components/tabs/Tabs";
 const portfolioHomeURL = '/#portfolio';
 
@@ -82,8 +96,7 @@ const ClosedOppPortolioPage = () => {
                             <div className="col-md-12">
                                 <center>
                                     <h3>Optimization</h3>
-                                    <p>Click <a href="http://closedopp.com/salesforce-ppc-service.html">here</a> for live view.</p>
-                                    <img className="bottom-5 screenshot-border" src="assets/images/ClosedOpp/ClosedOpp-Screenshot-Optimization.png" width="1902" height="1695" alt="ClosedOpp-Screenshot-Optimization" />
+                                    <img className="bottom-5 screenshot-border" src={OptimizationPage} width="1902" height="1695" alt="ClosedOpp-Screenshot-Optimization" />
                                 </center>
                             </div>                  
                         </div>
@@ -91,8 +104,7 @@ const ClosedOppPortolioPage = () => {
                             <div className="col-md-12">
                                 <center>
                                     <h3>Process</h3>
-                                    <p>Click <a href="http://closedopp.com/process.html">here</a> for live view.</p>
-                                        <img className="bottom-5 screenshot-border" src="assets/images/ClosedOpp/ClosedOpp-Screenshot-Process.png" width="1904" height="1440" alt="ClosedOpp-Home-Screenshot-Process" />
+                                        <img className="bottom-5 screenshot-border" src={ProcessPage} width="1904" height="1440" alt="ClosedOpp-Home-Screenshot-Process" />
                                 </center>
                             </div>   
                         </div>
@@ -100,8 +112,7 @@ const ClosedOppPortolioPage = () => {
                             <div className="col-md-12">
                                 <center>
                                     <h3>Integration</h3>
-                                    <p>Click <a href="http://closedopp.com/salesforce-integration.html">here</a> for live view.</p>
-                                    <img className="bottom-5 screenshot-border" src="assets/images/ClosedOpp/ClosedOpp-Screenshot-Integration.png" width="1904" height="1816" alt="ClosedOpp-Screenshot-Integration" />
+                                    <img className="bottom-5 screenshot-border" src={IntegrationPage} width="1904" height="1816" alt="ClosedOpp-Screenshot-Integration" />
                                 </center>
                             </div> 
                         </div>
@@ -109,8 +120,7 @@ const ClosedOppPortolioPage = () => {
                             <div className="col-md-12">
                             <center>
                                 <h3>Reports</h3>
-                                <p>Click <a href="http://closedopp.com/reports.html">here</a> for live view.</p>
-                                <img className="bottom-5 screenshot-border" src="assets/images/ClosedOpp/ClosedOpp-Screenshot-Reports.png" width="1904" height="2072" alt="ClosedOpp-Home-Screenshot-Reports" />
+                                <img className="bottom-5 screenshot-border" src={ReportsPage} width="1904" height="2072" alt="ClosedOpp-Home-Screenshot-Reports" />
                             </center>
                             </div>   
                         </div>
@@ -118,8 +128,7 @@ const ClosedOppPortolioPage = () => {
                             <div className="col-md-12">
                             <center>
                                 <h3>Our Guarantee</h3>
-                                <p>Click <a href="http://closedopp.com/guarantee.html">here</a> for live view.</p>
-                                <img className="bottom-5 screenshot-border" src="assets/images/ClosedOpp/ClosedOpp-Screenshot-OurGurantee.png" width="1904" height="1440" alt="ClosedOpp-Screenshot-Our-Guarantee" />
+                                <img className="bottom-5 screenshot-border" src={GuaranteePage} width="1904" height="1440" alt="ClosedOpp-Screenshot-Our-Guarantee" />
                             </center>
                             </div> 
                         </div>
@@ -127,8 +136,7 @@ const ClosedOppPortolioPage = () => {
                             <div className="col-md-12">
                             <center>
                                 <h3>Schedule Demo</h3>
-                                <p>Click <a href="http://closedopp.com/schedule-demo.html">here</a> for live view.</p>
-                                <img className="bottom-5 screenshot-border" src="assets/images/ClosedOpp/ClosedOpp-Screenshot-Schedule-Demo.png" width="1902" height="1281" alt="ClosedOpp-Screenshot-Schedule-Demo" />
+                                <img className="bottom-5 screenshot-border" src={DemoPage} width="1902" height="1281" alt="ClosedOpp-Screenshot-Schedule-Demo" />
                             </center>
                             </div>   
                         </div>
@@ -137,62 +145,61 @@ const ClosedOppPortolioPage = () => {
                             <center>
                                 <h3>Extras (Logo, Ads, Blog, etc.)</h3>
                             </center>
-                            <ol>
-                                <li>In addition to developing and maintaining the ClosedOpp responsive website that utilized HTML5, CSS3, Javascript, Bootstrap, various custom graphics and more, I also installed and a blog onto the main hosting server that was utilized. This blog was not used directly from Wordpress itself, but utilized their backend. Click <a href="http://closedopp.com/blog/">here</a> for live view of the installed <a href="http://closedopp.com/blog/">Wordpress Blog</a>. </li>
-                                <li>I was also responsible for re-designing the ClosedOpp logo. There were two versions I built that were used, one with the full ClosedOpp wording, and one without.</li>
-                                <li>Lastly, I also built numerous ads for online PPC ad campaigns and more. Some of these are shown below as well.</li>
-                                </ol>
                                 <hr/>
                                 <center>
                                     <img src={Logo} width="800" height="160" alt="" />
                                 </center>
                             <hr />
-                                <div className="col-lg-3 col-md-4 col-xs-6 thumb">
-                                    <a className="thumbnail">
-                                        <img className="img-responsive" src="assets/images/ClosedOpp/Add-Version-1-1.png" alt="" />
-                                    </a>
+                            <center>
+                                <div style={{marginLeft: '20%', marginRight: '20%'}}>
+                                    <div className="" style={{ float: 'left' }}>
+                                        <a className="thumbnail">
+                                            <img className="img-responsive" src={AdVersion1} alt="" />
+                                        </a>
+                                    </div>
+                                    <div className="" style={{ float: 'left' }}>
+                                        <a className="thumbnail">
+                                            <img className="img-responsive" src={AdVersion2} alt="" />
+                                        </a>
+                                    </div>
+                                    <div className="" style={{ float: 'left' }}>
+                                        <a className="thumbnail">
+                                            <img className="img-responsive" src={AdVersion3} alt="" />
+                                        </a>
+                                    </div>
+                                    <div className="" style={{ float: 'left' }}>
+                                        <a className="thumbnail">
+                                            <img className="img-responsive" src={AdVersion4} alt="" />
+                                        </a>
+                                    </div>
+                                    <div className="" style={{ float: 'left' }}>
+                                        <a className="thumbnail">
+                                            <img className="img-responsive" src={AdVersion5} alt="" />
+                                        </a>
+                                    </div>
+                                    <div className="" style={{ float: 'left' }}>
+                                        <a className="thumbnail">
+                                            <img className="img-responsive" src={AdVersion6} alt="" />
+                                        </a>
+                                    </div>
+                                    <div className="" style={{ float: 'left' }}>
+                                        <a className="thumbnail">
+                                            <img className="img-responsive" src={AdVersion7} alt="" />
+                                        </a>
+                                    </div>
+                                    <div className="" style={{ float: 'left' }}>
+                                        <a className="thumbnail">
+                                            <img className="img-responsive" src={AdVersion8} alt="" />
+                                        </a>
+                                    </div>
                                 </div>
-                                <div className="col-lg-3 col-md-4 col-xs-6 thumb">
-                                    <a className="thumbnail">
-                                        <img className="img-responsive" src="assets/images/ClosedOpp/Add-Version-1-2.png" alt="" />
-                                    </a>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-xs-6 thumb">
-                                    <a className="thumbnail">
-                                        <img className="img-responsive" src="assets/images/ClosedOpp/Add-Version-1-3.png" alt="" />
-                                    </a>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-xs-6 thumb">
-                                    <a className="thumbnail">
-                                        <img className="img-responsive" src="assets/images/ClosedOpp/Add-Version-1-4.png" alt="" />
-                                    </a>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-xs-6 thumb">
-                                    <a className="thumbnail">
-                                        <img className="img-responsive" src="assets/images/ClosedOpp/Add-Version-1-5.png" alt="" />
-                                    </a>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-xs-6 thumb">
-                                    <a className="thumbnail">
-                                        <img className="img-responsive" src="assets/images/ClosedOpp/Add-Version-2-1.png" alt="" />
-                                    </a>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-xs-6 thumb">
-                                    <a className="thumbnail">
-                                        <img className="img-responsive" src="assets/images/ClosedOpp/Add-Version-2-2.png" alt="" />
-                                    </a>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-xs-6 thumb">
-                                    <a className="thumbnail">
-                                        <img className="img-responsive" src="assets/images/ClosedOpp/Add-Version-2-3.png" alt="" />
-                                    </a>
-                                </div>
+                                </center>
                             </div>     
                         </div>
                     </Tabs>
                 </section>
-            <Footer data={resumeData.main}/>
-
+                <hr/>
+                <Footer data={resumeData.main}/>
         </div>
     )
 }
