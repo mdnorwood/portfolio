@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import resumePDF from './../Assets/Marcus_Dale_Norwood_Resumé_for_Web_Positions.pdf';
+import resumePDF from './../Assets/Marcus_Dale_Norwood_Resumé_for_Web_Positions.pdf';
 const WebServices = 'https://dalestreetwebdesign.com/';
 const AudioServices = 'https://dalestreetstudio.com/';
 
